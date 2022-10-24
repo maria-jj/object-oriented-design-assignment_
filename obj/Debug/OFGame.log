@@ -1,0 +1,25 @@
+﻿  AnimatedObject.cpp
+  GameObject.cpp
+  Physics.cpp
+  main.cpp
+  ofApp.cpp
+  OFGame.vcxproj -> C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\OFGame_debug.exe
+  
+  	                   2	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 2939392	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\assimp.dll
+  	  *EXTRA File 		 6018560	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\FreeImage.dll
+  	  *EXTRA File 		  580608	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\freetype.dll
+  	  *EXTRA File 		  237568	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\glut32.dll
+  	  *EXTRA File 		 1178624	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\libeay32.dll
+  	  *EXTRA File 		  269824	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\ssleay32.dll
+  	  *EXTRA File 		   69632	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\Zlib.dll
+  
+  	                   1	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 2939392	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\assimp.dll
+  	  *EXTRA File 		 1266176	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\fmodexL.dll
+  	  *EXTRA File 		  580608	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\freetype.dll
+  	  *EXTRA File 		  237568	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\glut32.dll
+  	  *EXTRA File 		 1178624	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\libeay32.dll
+  	  *EXTRA File 		  269824	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\ssleay32.dll
+  	  *EXTRA File 		   69632	C:\Users\maria\OneDrive\Desktop\IMD3006A\of_v0.11.0_vs2017_release\apps\myApps\OF-Game-A3-original\bin\Zlib.dll
